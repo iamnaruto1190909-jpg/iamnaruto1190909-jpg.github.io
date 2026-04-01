@@ -1,0 +1,151 @@
+ <!DOCTYPE html><html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>My Portfolio</title>
+
+<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;500;700&display=swap&quot; rel="stylesheet">
+
+<style>
+*{
+  margin:0;
+  padding:0;
+  box-sizing:border-box;
+  font-family:'Poppins',sans-serif;
+}
+
+body{
+  background:#f5f7fa;
+  color:#333;
+}
+
+/* HERO SECTION */
+.hero{
+  height:60vh;
+  background:linear-gradient(to right,#FF1F1F,#2320FE);
+  display:flex;
+  align-items:center;
+  justify-content:center;
+  flex-direction:column;
+  text-align:center;
+  color:#fff;
+}
+
+.hero img{
+  width:150px;
+  height:150px;
+  border-radius:50%;
+  border:4px solid #fff;https://images.squarespace-cdn.com/content/v1/608d9ef497633c6b6eb71caf/1620608763719-SJ1UOF4JVNGUEEMCY8B9/spider-man-into-the-spider-verse-nawpic-2-scaled-e1605828226174.jpg
+  margin-bottom:15px;
+}
+
+.hero h1{
+  font-size:2.5rem;
+}
+
+.hero p{
+  font-size:1.2rem;
+  opacity:0.9;
+}
+
+/* SECTION */
+section{
+  padding:60px 20px;
+  max-width:900px;
+  margin:auto;
+}
+
+h2{
+  text-align:center;
+  margin-bottom:30px;
+  color:#4facfe;
+}
+
+/* ABOUT */
+.about{
+  text-align:center;
+  line-height:1.8;
+color:black
+}
+
+/* SKILLS */
+.skills{
+  display:flex;
+  flex-wrap:wrap;
+  justify-content:center;
+  gap:15px;
+}
+
+.skill{
+  background:#DB28F6;
+  color:black;
+  padding:10px 20px;
+  border-radius:20px;
+  transition:0.3s;
+}
+
+.skill:hover{
+  background:#00c6ff;
+  transform:scale(1.1);
+}
+
+/* CONTACT */
+.contact{
+  text-align:center;
+}
+
+/* FOOTER */
+footer{
+  background:#333;
+  color:#fff;
+  text-align:center;
+  padding:15px;
+}
+</style>
+
+</head>
+
+<body>
+
+<!-- HERO -->
+<div class="hero">
+  <img src="https://static.wikia.nocookie.net/onepiece/images/8/87/One_Piece_Anime_Logo.png/revision/latest/scale-to-width-down/1200?cb=20250813015436; alt="Profile Photo">
+  <h1>Karthik Krishna A H </h1>
+  <p>Aspiring Web Developer 🚀</p>
+</div>
+
+<!-- ABOUT -->
+<section>
+  <h2>About Me</h2>
+  <p class="about">
+    Hi, I’m Karthik krishna A H I'm a student  who loves to create websites ,play games etc.I enjoy building websites, apps, projects, designs, videos, etc.My goal is to improve my skills in [coding/design/business/etc.] and create projects that solve real problems.Outside of work, I enjoy music, gaming, reading, sports, travel, etc.
+  </p>
+</section>
+
+<!-- SKILLS -->
+<section>
+  <h2>My Skills</h2>
+  <div class="skills">
+    <div class="skill">HTML</div>
+    <div class="skill">Creating Games</div>
+	<div class="skill">Python</div>
+	<div class="skill">Uploading Gaming Videos</div>
+      </div>
+</section>
+
+<!-- CONTACT -->
+<section>
+  <h2>Contact Me</h2>
+  <div class="contact">
+    <p>Email: iamnaruto1190909@gmail.com</p>
+    <p>Phone: +91 9496369610</p>
+  </div>
+</section>
+
+<!-- FOOTER -->
+<footer>
+  <p>© 2026 Karthik Krihsna A H | My First Website 🌐</p>
+</footer>
+
+</body>
+</html>
