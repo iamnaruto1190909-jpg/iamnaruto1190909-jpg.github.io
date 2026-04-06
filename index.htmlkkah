@@ -1,4 +1,4 @@
- <!DOCTYPE html><html lang="en">
+<!DOCTYPE html><html lang="en">
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -35,7 +35,7 @@ body{
   width:150px;
   height:150px;
   border-radius:50%;
-  border:4px solid #fff;https://images.squarespace-cdn.com/content/v1/608d9ef497633c6b6eb71caf/1620608763719-SJ1UOF4JVNGUEEMCY8B9/spider-man-into-the-spider-verse-nawpic-2-scaled-e1605828226174.jpg
+  border:4px solid #fff;
   margin-bottom:15px;
 }
 
@@ -109,7 +109,7 @@ footer{
 
 <!-- HERO -->
 <div class="hero">
-  <img src="https://static.wikia.nocookie.net/onepiece/images/8/87/One_Piece_Anime_Logo.png/revision/latest/scale-to-width-down/1200?cb=20250813015436; alt="Profile Photo">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbrHlAthwL-aQ-5Y2DdVvQhTxP4CzIhTsgSQ&s;" alt="Profile Photo">
   <h1>Karthik Krishna A H </h1>
   <p>Aspiring Web Developer 🚀</p>
 </div>
@@ -144,7 +144,7 @@ footer{
 
 <!-- FOOTER -->
 <footer>
-  <p>© 2026 Karthik Krihsna A H | www.iamnaruto1190909-jpg.github.io🌐</p>
+  <p>© 2026 Karthik Krihsna A H |iamnaruto1190909-jpg.github.io 🌐</p>
 </footer>
 
 </body>
